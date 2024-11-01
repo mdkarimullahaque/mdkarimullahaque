@@ -22,7 +22,7 @@ I am a [Post Graduate](https://math.iitm.ac.in/student/program/1#:~:text=21,MA23
 # Publications
 + To be updated
 
-```©️ MD Karimulla Haque```
+<!---```©️ MD Karimulla Haque```--->
 
 <!---
 mdkarimullahaque/mdkarimullahaque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
