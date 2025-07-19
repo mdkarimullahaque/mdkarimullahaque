@@ -15,7 +15,7 @@ I was a [Post Graduate](https://math.iitm.ac.in/alumni.php#:~:text=MD%20Karimull
 <!--and currently I am doing project under the guidance of [Dr. Sivaram Ambikasaran](https://dsai.iitm.ac.in/faculty/sivaram-ambikasaran/)-->
 # ☎️ Contact Information
 + [Book an appointment](https://calendly.com/mdkarimullahaque/appointment)
-+ [📧 Email](karimulla@alumni.iitm.ac.in)
++ [📧 Email](mailto:karimulla@alumni.iitm.ac.in)
 + [🌐 Website](https://sites.google.com/view/mdkarimullahaque)
 + [🔗 LinkedIn](https://in.linkedin.com/in/mdkarimullahaque)
 # Honors and Reward
